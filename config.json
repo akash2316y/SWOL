@@ -1,7 +1,7 @@
 {
-  "TOKEN": "",
-  "ID": "20715688",
-  "HASH": "6fd4f5071acac391de47d8af73803b80",
-  "STRING": "",
+  "BOT_TOKEN": "",
+  "API_ID": "20715688",
+  "API_HASH": "6fd4f5071acac391de47d8af73803b80",
+  "STRING_SESSION": "",
   "DB_CHANNEL": ""
 }
